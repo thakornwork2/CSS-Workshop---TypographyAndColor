@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.category {
+    color: rgb(106, 141, 255);
+    font-weight: 600;
+}
+
+.title {
+    width: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.meta {
+    font-size: 14px;
+    color: gray;
+    padding-bottom: 20px;
+    padding-top: 5px;
+}
+
+.lead {
+    width: 500px;
+    color: rgba(20, 20, 20, 0.58);
+}
+

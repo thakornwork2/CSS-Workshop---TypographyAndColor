@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    padding-left: 0;
+    margin: 0;
+
+}
+
+
+
+body {
+    padding-left: 30px;
+    border: 1px solid black;
+    border-left: 5px solid #2563eb;
+    padding: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 560px;
+    background-color: white;
+}
+
+.notice-title {
+    font-size: 27px;
+    padding-left: 20px;
+
+}
+
+.notice-text {
+    padding: 20px;
+}
+
+.notice-meta .material-symbols-outlined {
+  font-size: 18px;
+  vertical-align: middle;
+  margin-right: 4px;
+  color: gray;
+}
+
+.notice-meta .material-symbols-outlined {
+    color: gray;
+}
+
+
+.notice-meta {
+    padding-left: 20px;
+    color: gray;
+}
+
+
+
